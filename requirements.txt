@@ -1,0 +1,19 @@
+# SENTINELA ORBITAL - dependencias (Python 3.10+; testado em 3.12)
+# Visao computacional / Deep Learning
+tensorflow-cpu==2.18.0
+numpy>=1.26
+pillow>=10.0
+scikit-learn>=1.3
+matplotlib>=3.7
+
+# Dados / dashboard
+pandas>=2.0
+streamlit>=1.30
+plotly>=5.18
+
+# IoT (MQTT opcional) / Nuvem (AWS)
+paho-mqtt>=1.6
+boto3>=1.34
+
+# Relatorio em PDF
+fpdf2>=2.7

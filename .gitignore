@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Dados / artefatos gerados em runtime
+data/
+src/ml/model/*.keras
+src/ml/model/classes.json
+
+# Imagens geradas pelo treino (mantenha apenas o que for para o PDF, se quiser)
+# assets/treino_historico.png
+# assets/matriz_confusao.png
+# assets/amostras_predicao.png
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

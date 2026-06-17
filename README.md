@@ -16,14 +16,6 @@ Monitoramento inteligente de **desmatamento e queimadas** que funde **três font
 
 - **Bruno de Souza Leite** — RM567213
 
-## 👩‍🏫 Professores
-
-### Tutor(a)
-- _A preencher_
-
-### Coordenador(a)
-- _A preencher_
-
 ---
 
 ## 📜 Descrição

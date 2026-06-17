@@ -38,7 +38,7 @@ SUBTITULO = ("Monitoramento de desmatamento e queimadas com dados REAIS de "
              "satelite (Sentinel-2 / NASA), Visao Computacional, IoT (ESP32) "
              "e Computacao em Nuvem (AWS)")
 
-OUT_PDF = ROOT / "document" / "Sentinela_Orbital_Entrega.pdf"
+OUT_PDF = ROOT / "docs" / "Sentinela_Orbital_Entrega.pdf"
 
 
 def s(txt: str) -> str:

@@ -1,0 +1,7 @@
+SENTINELA ORBITAL - FIAP Sub Global Solution 2026.1
+Aluno: Bruno de Souza Leite - RM567213
+
+Repositorio (GitHub): https://github.com/souzaleite-dev/subgs
+Clonar:               git clone https://github.com/souzaleite-dev/subgs.git
+
+Video demonstrativo (YouTube - Nao Listado): https://youtu.be/e5dnb7D5-fM
